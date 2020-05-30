@@ -1,5 +1,20 @@
 A Responsive Portfolio that we will be making together. Video tutorials are available in the Facebook group - https://www.facebook.com/groups/codersofxda/
 
+### Things You Should Know for a Better Understanding
+
+ - Box Model
+ - Positioning - Relative, Absolute etc.
+ - Flexbox
+ - CSS Grid Basics
+ - Media Queries
+ 
+ ## Getting Started
+ 
+  - Clone the repo.
+ - Navigate to the folder, do `npm install` (Node.js & npm required) and
+   run the `compile-css` to generate CSS from **.scss** file.
+ - Play with the code.
+
 ### Resources I've used in the tutorials
 
  - [FontAwesome 5.0](https://fontawesome.com/) - For all the icons used
