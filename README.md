@@ -1,4 +1,3 @@
-# portfoliobyvipin
 A Responsive Portfolio that we will be making together. Video tutorials are available in the Facebook group - https://www.facebook.com/groups/codersofxda/
 
 ### Resources I've used in the tutorials
@@ -9,6 +8,7 @@ A Responsive Portfolio that we will be making together. Video tutorials are avai
    shades of a particular color.
  - [TailwindCSS](https://tailwindcss.com/) - For colors & box-shadows.
  - [Pexels](https://www.pexels.com/) - For images.
+ - [Heroicons](https://heroicons.dev/) - SVG Icons.
  - [Undraw](https://undraw.co/illustrations) - For illustrations.
  - [Google Fonts](https://fonts.google.com/) - for fonts used in the
    design.
@@ -21,8 +21,8 @@ A Responsive Portfolio that we will be making together. Video tutorials are avai
  - Theme - [Palenight](https://marketplace.visualstudio.com/items?itemName=whizkydee.material-palenight-theme).
 
 **Plugins:**
-- [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) - for live reload on save.
-- [Relative Path](https://marketplace.visualstudio.com/items?itemName=jakob101.RelativePath) - to get the relative path to any file in the workspace.. (**../css/app.css**).
+- [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) - launches a development server with auto-reload on save.
+- [Relative Path](https://marketplace.visualstudio.com/items?itemName=jakob101.RelativePath) - to get the relative path to any file in the workspace.
 
 ## License
 
