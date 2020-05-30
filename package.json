@@ -1,0 +1,14 @@
+{
+	"name": "portfoliobyvipin",
+	"version": "1.0.0",
+	"description": "Let's make a design together",
+	"main": "index.js",
+	"scripts": {
+		"compile-css": "sass --watch sass:css"
+	},
+	"author": "Vipin Mishra",
+	"license": "MIT",
+	"devDependencies": {
+		"sass": "^1.26.7"
+	}
+}
