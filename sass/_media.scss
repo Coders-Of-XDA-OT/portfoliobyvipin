@@ -8,6 +8,12 @@
 	.container {
 		max-width: 720px;
 	}
+
+	.hero__image {
+		width: 80%;
+		margin-left: auto;
+		margin-right: auto;
+	}
 }
 
 @media (min-width: 992px) {
@@ -62,6 +68,26 @@
 				}
 			}
 		}
+	}
+
+	.hero__inner {
+		display: flex;
+		justify-content: space-between;
+		align-items: center;
+	}
+
+	.hero__intro {
+		flex-basis: 60%;
+
+		.headline {
+			font-size: 3rem;
+		}
+	}
+
+	.hero__image {
+		margin: 0 0 0 0;
+		width: 80%;
+		flex-basis: 30%;
 	}
 }
 
